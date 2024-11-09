@@ -5,8 +5,8 @@ from PIL import Image
 import os
 
 # Usage example
-API_KEY = "tLzfYXv971en1eyYtg4bOF4NhEGYBa02SZtJgJqoLyelD3zQsX"  # Replace with your actual API key
-image_path = "/Users/todd.zhang/Downloads/monash_tomato.jpeg"  # Replace with your image path
+API_KEY = "..........."  # Replace with your actual API key
+image_path = "any_tomato.jpeg"  # Replace with your image path
 # image_path = "/Users/todd.zhang/Downloads/Monstera-Problems.jpg"
 # image_path = "/Users/todd.zhang/Downloads/pests-and-diseases-roses-520-500.jpeg"
 
